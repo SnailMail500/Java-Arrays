@@ -11,5 +11,6 @@ public class Main {
         System.out.println(cars[2]);//should print BMW
         cars[2] = "mercedes";
         System.out.println(cars.length);//should print 3
+        //to loop through, just use a for-each loop, it's way easier
     }
 }
